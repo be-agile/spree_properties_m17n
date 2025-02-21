@@ -1,0 +1,5 @@
+require 'spree_core'
+require 'spree_extension'
+require 'spree_properties_m17n/engine'
+require 'spree_properties_m17n/version'
+require 'spree_properties_m17n/configuration'
